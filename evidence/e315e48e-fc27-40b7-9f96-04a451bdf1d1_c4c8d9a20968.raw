@@ -1,0 +1,14 @@
+
+            <!DOCTYPE html><html><head><title>BreachForums - Acme Corp Employee Credentials & Database Leak</title></head>
+            <body>
+                <h1>[LEAK] ACME CORP Enterprise Userbase & Stealer Logs (2026)</h1>
+                <p>Source URL: http://breachfo33ce444f77a7b6d5536444c36d6d5422e232532e7f527fcb.onion/threads/acme corp-database-dump</p>
+                <p>Extracted from RedLine/Lumma stealer infected endpoints belonging to Acme Corp.</p>
+                <ul>
+                    <li>devops@acme corp.com : $2a$12$XYZ99 (MD5: 1cde2308e0e5e4b38e3592a835e561a8)</li>
+                    <li>corp_admin@acme corp.com : SHA256: 26bf5e41ba6b497ee011d3fa08c6dea0772cbc46ed8df0d77be5b49c05bee1ea</li>
+                    <li>vpn_gateway: 198.51.100.185 (Exploited via CVE-2024-3400)</li>
+                </ul>
+                <p>Monero Escrow: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkFxbANsAnJYPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H</p>
+                <p>Bitcoin Address: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq</p>
+            </body></html>

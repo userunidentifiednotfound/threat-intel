@@ -1,0 +1,6 @@
+{
+  "name": "Dark Web Intelligence Platform (DWI)",
+  "description": "Production-grade Python CLI and Intelligence Workbench for Dark Web threat monitoring, multi-source discovery, evidence-first acquisition, and clean relational intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
